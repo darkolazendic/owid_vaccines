@@ -1,5 +1,3 @@
-#! /usr/bin/python
-
 from helpers import pull_data, process_data, plot_data
 
 
